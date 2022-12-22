@@ -1,0 +1,214 @@
+[
+    [
+        {
+            "link": "https://www.autovit.ro/anunt/seat-leon-st-1-6-tdi-ecomotive-ID7H4IqU.html",
+            "title": "Seat Leon ST 1.6 TDI Ecomotive",
+            "price": "9 490",
+            "year": "2017",
+            "km": "226 000 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/land-rover-discovery-sport-ID7GLIkR.html",
+            "title": "Land Rover Discovery Sport",
+            "price": "45 753",
+            "year": "2020",
+            "km": "32 084 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/renault-espace-energy-dci-160-edc-ID7H6Ezs.html",
+            "title": "Renault Espace Energy dCi 160 EDC",
+            "price": "20 499",
+            "year": "2017",
+            "km": "123 000 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/bmw-x5-xdrive40i-ID7H6DY1.html",
+            "title": "BMW X5 xDrive40i",
+            "price": "65 900",
+            "year": "2019",
+            "km": "37 500 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/hyundai-kona-1-0-t-gdi-2wd-ID7H6ULL.html",
+            "title": "Hyundai KONA 1.0 T-GDI 2WD",
+            "price": "15 949",
+            "year": "2020",
+            "km": "20 359 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/ford-focus-1-5-ecoblue-ID7H6yzd.html",
+            "title": "Ford Focus 1.5 EcoBlue",
+            "price": "15 290",
+            "year": "2019",
+            "km": "76 017 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/mercedes-benz-gle-350-d-4matic-ID7H6Cf3.html",
+            "title": "Mercedes-Benz GLE 350 d 4MATIC",
+            "price": "46 850",
+            "year": "2017",
+            "km": "78 304 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/bmw-x1-ID7H6R9y.html",
+            "title": "BMW X1",
+            "price": "17 800",
+            "year": "2016",
+            "km": "191 500 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/skoda-octavia-combi-1-6-tdi-dsg-ID7H6kLL.html",
+            "title": "Skoda Octavia Combi 1.6 TDI DSG",
+            "price": "11 900",
+            "year": "2016",
+            "km": "197 000 km"
+        },
+        {
+            "link": "https://www.autovit.ro/anunt/mini-clubman-cooper-s-all4-at-ID7H4tx3.html",
+            "title": "Mini Clubman Cooper S ALL4 AT",
+            "price": "22 990",
+            "year": "2019",
+            "km": "43 500 km"
+        }
+    ],
+    {
+        "link": "https://www.autovit.ro/anunt/ford-mustang-ID7H521E.html",
+        "title": "Ford Mustang",
+        "price": "38 000",
+        "year": "2021",
+        "km": "5 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/bmw-x1-xdrive20d-aut-ID7H6VqD.html",
+        "title": "BMW X1 xDrive20d Aut.",
+        "price": "32 500",
+        "year": "2018",
+        "km": "65 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/land-rover-discovery-sport-ID7H6kO6.html",
+        "title": "Land Rover Discovery Sport",
+        "price": "17 750",
+        "year": "2015",
+        "km": "159 500 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/seat-ateca-2-0-tdi-start-stop-4drive-dsg7-ID7H6Gla.html",
+        "title": "Seat Ateca 2.0 TDI Start&Stop 4Drive DSG7",
+        "price": "25 000",
+        "year": "2018",
+        "km": "70 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/volkswagen-transporter-ID7H6DVz.html",
+        "title": "Volkswagen Transporter",
+        "price": "8 999",
+        "year": "2011",
+        "km": "280 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/jeep-wrangler-2-0-turbo-at8-ID7H5bHv.html",
+        "title": "Jeep Wrangler 2.0 Turbo AT8",
+        "price": "25 000",
+        "year": "2021",
+        "km": "16 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/opel-zafira-tourer-2-0-cdti-ecotec-ID7H4UBU.html",
+        "title": "Opel Zafira Tourer 2.0 CDTI ECOTEC",
+        "price": "7 990",
+        "year": "2013",
+        "km": "236 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/mercedes-benz-gl-350-4matic-bluetec-aut-ID7H3Xi3.html",
+        "title": "Mercedes-Benz GL 350 4MATIC BlueTec Aut.",
+        "price": "34 500",
+        "year": "2013",
+        "km": "178 221 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/audi-a8-l-55-tfsi-quattro-tiptronic-ID7H6RQc.html",
+        "title": "Audi A8 L 55 TFSI quattro tiptronic",
+        "price": "65 999",
+        "year": "2018",
+        "km": "108 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/volkswagen-golf-2-0-tdi-dsg-ID7H6YaF.html",
+        "title": "Volkswagen Golf 2.0 TDI DSG",
+        "price": "14 518",
+        "year": "2018",
+        "km": "117 641 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-350-d-4matic-ID7H55ET.html",
+        "title": "Mercedes-Benz GLE Coupe 350 d 4MATIC",
+        "price": "92 000",
+        "year": "2021",
+        "km": "10 360 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/bmw-x4-xdrive20d-aut-ID7H6Hro.html",
+        "title": "BMW X4 xDrive20d Aut.",
+        "price": "25 800",
+        "year": "2017",
+        "km": "132 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/peugeot-308-bluehdi-fap-120-stop-start-ID7H1jEw.html",
+        "title": "Peugeot 308 BlueHDi FAP 120 Stop & Start",
+        "price": "13 090",
+        "year": "2018",
+        "km": "60 459 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/ssangyong-korrando-ID7H005i.html",
+        "title": "SsangYong Korrando",
+        "price": "21 079",
+        "year": "2022",
+        "km": "1 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/mercedes-benz-gls-maybach-ID7H6RMC.html",
+        "title": "Mercedes-Benz GLS Maybach",
+        "price": "235 000",
+        "year": "2022",
+        "km": "30 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/kia-sportage-1-6-t-gdi-6mt-4x2-ID7H521L.html",
+        "title": "Kia Sportage 1.6 T-GDI 6MT 4x2",
+        "price": "16 000",
+        "year": "2016",
+        "km": "173 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/bmw-x3-ID7H6vYs.html",
+        "title": "BMW X3",
+        "price": "42 500",
+        "year": "2019",
+        "km": "50 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/jeep-wrangler-2-0-turbo-at8-ID7H5bHv.html",
+        "title": "Jeep Wrangler 2.0 Turbo AT8",
+        "price": "25 000",
+        "year": "2021",
+        "km": "16 000 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/audi-sq5-tdi-quattro-tiptronic-ID7H5L4T.html",
+        "title": "Audi SQ5 TDI quattro tiptronic",
+        "price": "69 008",
+        "year": "2021",
+        "km": "8 800 km"
+    },
+    {
+        "link": "https://www.autovit.ro/anunt/mercedes-benz-a-180-d-7g-dct-ID7H5Okb.html",
+        "title": "Mercedes-Benz A 180 d 7G-DCT",
+        "price": "29 000",
+        "year": "2020",
+        "km": "22 000 km"
+    }
+]
